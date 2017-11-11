@@ -41,6 +41,9 @@ nav a:hover {
   color: #868e96;
 }
 
+h3 ice:hover {
+  text-decoration: underline;
+}
 main{
   margin-top: 20px;
 }
